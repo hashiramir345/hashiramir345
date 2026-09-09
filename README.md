@@ -22,7 +22,7 @@
 ```yaml
 name:        Muhammad Hashir
 role:        Beginner Developer | Student
-location:    Pakistan
+location:    Pakistan, kahuta!
 focus:       [Web Development, Programming Basics, Learning New Tech]
 status:      Open to learning opportunities and collaborations ✨
 ```
