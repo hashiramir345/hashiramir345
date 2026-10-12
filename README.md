@@ -34,6 +34,7 @@ role:        Beginner Developer | Student
 location:    Pakistan, kahuta!
 focus:       [Web Development, Programming Basics, Learning New Tech]
 status:      Open to learning opportunities and collaborations ✨
+skills: teaching Math  subjects
 ```
 
 I'm currently learning the basics of programming and web development.
