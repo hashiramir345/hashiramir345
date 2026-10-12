@@ -63,7 +63,10 @@ excited to explore new technologies.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-
+<h3 align="center">Backend &amp; Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,nodejs,express,cs,dotnet,mongodb,mysql&perline=9" alt="Backend and Databases" />
+</p>
 ### 📊 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hashiramir345&show_icons=true&theme=dark" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashiramir345&theme=dark" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashiramir345&layout=compact&theme=dark" width="60%" /> </p>
