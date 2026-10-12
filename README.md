@@ -3,6 +3,13 @@
 </p>
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Beginner+in+Tech+%F0%9F%9A%80;Learning+Something+New+Everyday!" alt="Typing SVG" /> </p>
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:151000,100:FFD700&height=220&section=header&text=Muhammad%20Hashir&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Beginner%20Developer%20%E2%80%A2%20Student&descSize=22&descAlignY=60" alt="Banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Building+my+skills;Learning+something+new+every+day;Open+to+internships" alt="Typing animation" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/-BSCS-151000?style=for-the-badge" alt="BSCS" />
   <img src="https://img.shields.io/badge/KICSIT%20%E2%80%A2%20CLASS%20OF%202029-FFD700?style=for-the-badge" alt="KICSIT" />
   <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-FFD700?style=for-the-badge&labelColor=151000" alt="Open to Internships" />
