@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hashiramir345&label=PROFILE%20VIEWS&color=00C853&style=for-the-badge" alt="Profile Views" />
+
   <img src="https://img.shields.io/badge/-BSCS-0A1F0A?style=for-the-badge" alt="BSCS" />
   <img src="https://img.shields.io/badge/KICSIT%20%E2%80%A2%20CLASS%20OF%202029-00C853?style=for-the-badge" alt="KICSIT" />
   <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-00C853?style=for-the-badge&labelColor=0A1F0A" alt="Open to Internships" />
