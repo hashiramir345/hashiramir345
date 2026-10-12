@@ -1,15 +1,16 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:151000,100:FFD700&height=220&section=header&text=Muhammad%20Hashir&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Beginner%20Developer%20%E2%80%A2%20Student&descSize=22&descAlignY=60" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F0A,100:00C853&height=220&section=header&text=Muhammad%20Hashir&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Beginner%20Developer%20%E2%80%A2%20Student&descSize=22&descAlignY=60" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Building+my+skills;Learning+something+new+every+day;Open+to+internships" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=Building+my+skills;Learning+something+new+every+day;Open+to+internships" alt="Typing animation" />
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-BSCS-151000?style=for-the-badge" alt="BSCS" />
-  <img src="https://img.shields.io/badge/KICSIT%20%E2%80%A2%20CLASS%20OF%202029-FFD700?style=for-the-badge" alt="KICSIT" />
-  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-FFD700?style=for-the-badge&labelColor=151000" alt="Open to Internships" />
+  <img src="https://komarev.com/ghpvc/?username=hashiramir345&label=PROFILE%20VIEWS&color=00C853&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/-BSCS-0A1F0A?style=for-the-badge" alt="BSCS" />
+  <img src="https://img.shields.io/badge/KICSIT%20%E2%80%A2%20CLASS%20OF%202029-00C853?style=for-the-badge" alt="KICSIT" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-00C853?style=for-the-badge&labelColor=0A1F0A" alt="Open to Internships" />
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
