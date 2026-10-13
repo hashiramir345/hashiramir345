@@ -83,9 +83,6 @@ excited to explore new technologies.
 
 ---
 
-<p align="center"><i>Thanks for visiting my profile! 🙌</i></p>
-
-
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 160" width="100%" preserveAspectRatio="none">
   <defs>
     <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
@@ -119,3 +116,6 @@ excited to explore new technologies.
         M0,80 C213,50 427,105 640,75 S1067,50 1280,85 L1280,160 L0,160 Z"/>
   </path>
 </svg>
+<p align="center"><i>Thanks for visiting my profile! 🙌</i></p>
+
+
