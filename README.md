@@ -86,7 +86,7 @@ excited to explore new technologies.
 
 
 <p align="center">
-  <img src="./wave.svg" width="100%" alt="wave" />
+  <img src="(https://www.google.com/imgres?q=.%2Fwave.svg%22&imgurl=https%3A%2F%2Fimg.magnific.com%2Ffree-vector%2Focean-sea-blue-wave-with-ripples-background_1035-23387.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.magnific.com%2Ffree-photos-vectors%2Focean-waves-svg&docid=cpBAz6XvYuP0UM&tbnid=6IeQibcctgh4GM&vet=12ahUKEwit5fGln7eXAxXVWUEAHUI_Eh8QnPAOegQIchAA..i&w=740&h=518&hcb=2&ved=2ahUKEwit5fGln7eXAxXVWUEAHUI_Eh8QnPAOegQIchAA)"width="100%" alt="wave" />
 </p>
 
 <p align="center"><i>Thanks for visiting my profile! 🙌</i></p>
