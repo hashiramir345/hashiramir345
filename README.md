@@ -116,6 +116,11 @@ excited to explore new technologies.
         M0,80 C213,50 427,105 640,75 S1067,50 1280,85 L1280,160 L0,160 Z"/>
   </path>
 </svg>
+      <p align="center">
+  <img src="./wave.svg" width="100%" alt="wave" />
+</p>
+
+<p align="center"><i>Thanks for visiting my profile! 🙌</i></p>
 <p align="center"><i>Thanks for visiting my profile! 🙌</i></p>
 
 
