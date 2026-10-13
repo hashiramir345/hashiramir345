@@ -84,3 +84,38 @@ excited to explore new technologies.
 ---
 
 <p align="center"><i>Thanks for visiting my profile! 🙌</i></p>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 160" width="100%" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#08160c"/>
+      <stop offset="50%" stop-color="#0f5a2a"/>
+      <stop offset="100%" stop-color="#1fb85a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="160" fill="#0c1018"/>
+
+  <!-- back layer -->
+  <path fill="url(#gold)" opacity="0.45">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      calcMode="spline" keyTimes="0;0.5;1"
+      keySplines=".45 0 .55 1;.45 0 .55 1"
+      values="
+        M0,55 C213,30 427,80 640,50 S1067,25 1280,60 L1280,160 L0,160 Z;
+        M0,45 C213,75 427,30 640,60 S1067,80 1280,45 L1280,160 L0,160 Z;
+        M0,55 C213,30 427,80 640,50 S1067,25 1280,60 L1280,160 L0,160 Z"/>
+  </path>
+
+  <!-- front layer -->
+  <path fill="url(#gold)" opacity="0.9">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      calcMode="spline" keyTimes="0;0.5;1"
+      keySplines=".45 0 .55 1;.45 0 .55 1"
+      values="
+        M0,80 C213,50 427,105 640,75 S1067,50 1280,85 L1280,160 L0,160 Z;
+        M0,70 C213,100 427,55 640,85 S1067,105 1280,70 L1280,160 L0,160 Z;
+        M0,80 C213,50 427,105 640,75 S1067,50 1280,85 L1280,160 L0,160 Z"/>
+  </path>
+</svg>
