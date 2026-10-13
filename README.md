@@ -85,6 +85,9 @@ excited to explore new technologies.
 
 
 
+<p align="center">
+  <img src="./wave.svg" width="100%" alt="wave" />
+</p>
 
 <p align="center"><i>Thanks for visiting my profile! 🙌</i></p>
 
